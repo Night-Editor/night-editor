@@ -4,10 +4,7 @@ src: url("/font/Montserrat-Regular.ttf") format("truetype");
 font-style: normal;
 font-weight: normal;
 }
- body
- {
- width: 1200px;
- margin: auto;
+body
   font-family: "Montserrat-Regular";
 }
 a:hover{text-decoration: none;}
