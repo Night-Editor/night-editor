@@ -4,8 +4,9 @@ src: url("/font/Montserrat-Regular.ttf") format("truetype");
 font-style: normal;
 font-weight: normal;
 }
-body
+body{
   font-family: "Montserrat-Regular";
+  overflow-x: hidden;
 }
 a:hover{text-decoration: none;}
 *{
@@ -94,7 +95,7 @@ i{
 .programs b {
     position: absolute;
     text-align: center;
-    left: 40%;
+    left: 48%;
     font-size: 20px;
 }
 .programs button i{
@@ -114,7 +115,7 @@ i{
 .programs h1 {
   position: absolute;
   left: -16%;
-  margin-top: 9%;
+  margin-top: 7%;
 }
 .programs p {
     position: absolute;
