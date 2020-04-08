@@ -193,7 +193,7 @@ i{
 .left {
     animation: bounceInDown 3s;
     position: relative;
-    left: -40%;
+    left: -10%;
 }
 button {
     animation: fadeInDown 2s;
